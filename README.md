@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 ![](https://komarev.com/ghpvc/?username=nohapepeep)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohapepeep&theme=buefy-dark)](https://github.com/NohaPepeep/github-readme-stats)
 <br>
