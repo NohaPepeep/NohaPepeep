@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 ![](https://komarev.com/ghpvc/?username=nohapepeep)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohapepeep&theme=buefy-dark)](https://github.com/NohaPepeep/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohapepeep&theme=calm)](https://github.com/NohaPepeep/github-readme-stats)
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nohapepeep&theme=buefy-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nohapepeep&theme=calm)](https://github.com/DenverCoder1/github-readme-streak-stats)
