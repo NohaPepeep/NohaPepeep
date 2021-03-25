@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my gradaution project
 - 🌱 I’m currently learning three.js
-- 👯 I’m looking to collaborate on 3d projects
+- 👯 I’m looking to collaborate on webgl projects
 - 📫 How to reach me: Linkedin or twitter
 
 
