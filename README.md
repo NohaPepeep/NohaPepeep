@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my gradaution project
 - 🌱 I’m currently learning three.js
 - 👯 I’m looking to collaborate on 3d projects
 - 📫 How to reach me: Linkedin or twitter
