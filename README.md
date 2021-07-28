@@ -1,10 +1,4 @@
 ### Hi there 👋
-My name is Nuha ,a CS student .
-- 🔭 I’m currently working on my gradaution project
-- 🌱 I’m currently learning three.js
-- 👯 I’m looking to collaborate on webgl projects
-- 📫 How to reach me: Linkedin or twitter
-
 
 ![](https://komarev.com/ghpvc/?username=nohapepeep)
 <br>
