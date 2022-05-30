@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=nohapepeep)
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohapepeep&theme=calm)](https://github.com/NohaPepeep/github-readme-stats)
 <br>
